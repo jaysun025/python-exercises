@@ -1,5 +1,7 @@
 # Python Exercises
 
+Using python to pratice some different methods.
+
 Let's practice using loops, conditionals, arrays, hashes, and methods in Python.
 
 ## Getting Started
